@@ -1,0 +1,1 @@
+This repository contains the **NinaPro DB2 dataset (Exercise 1)** for **Subjects S1–S20**, widely used for sEMG-based hand gesture recognition research. The data includes 12-channel surface EMG signals recorded during basic hand and wrist movements. It is suitable for signal processing, feature extraction, and machine learning experiments. 
